@@ -6,7 +6,8 @@ font-family: 'Oswald', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Secular One', sans-serif;
 font-family: 'ZCOOL QingKe HuangYou', cursive;
-margin: 0;}
+margin: 0;
+}
 
 
 span{
@@ -126,6 +127,8 @@ span{
 }
 .sec2{
     background-image: url(png2.png);
+    background-repeat: no-repeat;
+   
 }
 
 .sec3{
@@ -164,4 +167,89 @@ span{
 
 .sec3{
     background-image: url(y.png.png);
+    background-repeat: no-repeat;
+}
+
+.sec4{
+    display: flex;
+    background-image: url(jail.png);
+    background-repeat: no-repeat;
+}
+
+.div67{
+   
+    width: 50%;
+    
+    padding-left: 210px;
+    margin-top: 230px;
+   
+}
+
+
+.div68{
+    width: 50%;
+    margin-top: 150px;
+    padding-right: 20px;
+    margin-left: 40px;
+
+
+}
+.div68 img{
+    width: 60%;
+}
+
+.div67 h1{
+    font-size: xx-large;
+}
+
+.kem{
+    text-align: center;
+    font-size: xx-large;
+    
+
+}
+
+.sec5{
+    margin-top: 10%;
+    background-image: url(baby.png);
+    background-repeat: no-repeat;
+}
+
+.divver{
+    display: flex;
+    
+}
+
+.div99{
+    width: 50%;
+    margin-top: 150px;
+    padding-left: 350px;
+
+}
+.div99 img{
+    width: 70%;   
+}
+
+.div100{
+    width: 50%;
+    
+    padding-right: 210px;
+    margin-top: 230px;
+   
+}
+
+footer h2{
+    text-align: center;
+    padding-top: 150px;
+}
+
+footer h5{
+    text-align: center;
+    padding-top: 50px;
+}
+
+footer{
+    margin-top: 10%;
+    padding-bottom: 60px;
+    background-color: antiquewhite;
 }
