@@ -56,3 +56,112 @@ span{
      border-radius: 10px;
     
  }
+ .h22{
+     text-align: center;
+     font-size: xx-large;
+
+ }
+
+ .div5{
+     width: 25%;
+     background-color: antiquewhite;
+     margin-left: 9%;
+     margin-right: 5%;
+     padding-left: 2%;
+     padding-right: 2%;
+     box-shadow: 10px 8px  10px  6px blue;
+     border-radius: 10px;
+    
+ }
+ .div5 img{
+     width: 35%;
+ }
+ .div5{
+     font-size: larger;
+ }
+ 
+
+ 
+ .div6{
+    width: 25%;
+    background-color:azure;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 8px  10px 5px pink;
+    border-radius: 10px;
+   
+}
+.div6 img{
+    width: 35%;
+}
+.div6{
+    font-size: larger;
+}
+
+
+.div7{
+    width: 25%;
+    background-color:wheat;
+    margin-left: 5%;
+    margin-right: 9%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 8px  11px 7px blue;
+    border-radius: 10px;
+    
+   
+}
+.div7 img{
+    width: 35%;
+}
+.div7{
+    font-size: larger;
+}
+
+.divall{
+    display: flex;
+    margin-top: 5%;
+}
+.sec2{
+    background-image: url(png2.png);
+}
+
+.sec3{
+    margin-top: 9%;
+}
+
+.div10 img{
+    width: 70%;
+}
+
+.div10{
+    width: 50%;
+    margin-top: 150px;
+    padding-left: 350px;
+    
+}
+
+.div11{
+  
+  
+    width: 50%;
+    
+    padding-right: 210px;
+    margin-top: 230px;
+   
+    
+}
+
+.sec3{
+    display: flex;
+}
+
+.boro{
+    font-size: xx-large;
+}
+
+.sec3{
+    background-image: url(y.png.png);
+}
